@@ -1,5 +1,5 @@
 # MovingMnist Data Maker
-Making the own data which the structure is similar to Moving_mnist dataset
+Make your origin data which the structure is similar to Moving_MNIST dataset
 
 ***
 # Environment installing
