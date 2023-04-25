@@ -16,4 +16,4 @@ Command `pip install -r enviroment.txt` to install the required packages.
 
 [1.基于Movingmnist结构制作predrnn++的训练数据](https://blog.csdn.net/souyan1991/article/details/115800019?spm=1001.2014.3001.5502)
 
-[2模仿MovingMnist制作自己的数据集【封装篇】](https://blog.csdn.net/souyan1991/article/details/115911546?spm=1001.2014.3001.5502)
+[2.模仿MovingMnist制作自己的数据集【封装篇】](https://blog.csdn.net/souyan1991/article/details/115911546?spm=1001.2014.3001.5502)
